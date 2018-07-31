@@ -1,0 +1,4 @@
+Slider and Video Control
+LX	Left X	3	SLIDER	Asse X	0	1.0	0.0
+RX	Right X	3	SLIDER	Rotazione X	0	1.0	0.0
+BX	Back X	3	SLIDER	Asse Z	0	1.0	0.0

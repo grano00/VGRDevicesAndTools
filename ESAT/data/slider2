@@ -1,0 +1,8 @@
+Slider 2 With features Bottons
+LX	Left X	3	SLIDER	X Axis	0	1.0	0.0
+RX	Right X	3	SLIDER	X Rotation	0	1.0	0.0
+BX	Back X	3	SLIDER	Z Axis	0	1.0	0.0
+PPY	Pause And Play Y	1	BUTTON	Button 3	0	0.0	0.0
+PPA	Pause And Play A	1	BUTTON	Button 0	0	0.0	0.0
+RS	Restart Select	1	BUTTON	Button 6	0	0.0	0.0
+FS	Finish Start	1	BUTTON	Button 7	0	0.0	0.0
